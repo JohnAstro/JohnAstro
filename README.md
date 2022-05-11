@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnAstro
 - 👀 I’m interested in ... Web and mobile development
-- 🌱 I’m currently learning ... Flutter, Dart, and Machine Learning
+- 🌱 I’m currently learning ... Flutter, Dart, and Machine Learning via Python and TensorFlow
 - 💞️ I’m looking to collaborate on ... an API in any language
 - 📫 How to reach me ... jonathan.gonzalez12@utrgv.edu or jonathan956g@gmail.com
 
